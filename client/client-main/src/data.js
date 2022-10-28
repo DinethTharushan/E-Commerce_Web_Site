@@ -1,25 +1,12 @@
 export const sliderItems = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/5553635/pexels-photo-5553635.jpeg",
-    title: "FAMOUS BOOKS",
+    img: "https://th.bing.com/th/id/R.0dfb08287580a6e3b983a4b4989a6823?rik=1Rgj5yrJ18VMLA&pid=ImgRaw&r=0",
+    title: "Men's Fashion",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
     bg: "f5fafd",
   },
-  {
-    id: 2,
-    img: "https://res.cloudinary.com/midefulness/image/upload/v1663365552/middleware/two-happy-girls-sweaters-having-fun-with-shopping-trolley-megaphone-white-wall_jvzsnj.jpg",
-    title: "OLD COLLECTION",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-    bg: "fcf1ed",
-  },
-  {
-    id: 3,
-    img: "https://res.cloudinary.com/midefulness/image/upload/v1663365573/middleware/happy-man-with-handbags-dancing-after-shopping-spree_lhcs72.jpg",
-    title: "BOOK LOVE",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-    bg: "fbf0f4",
-  },
+  
 ];
 
 export const categoriesOLD = [
@@ -52,7 +39,7 @@ export const categoriesOLD = [
 export const categories = [
   {
     id: 1,
-    img: "https://res.cloudinary.com/midefulness/image/upload/v1663366991/middleware/creative-composition-world-book-day_mhds26.jpg",
+    img: "https://i.ebayimg.com/images/g/EkYAAOSw2etjNHet/s-l500.jpg",
     title: "BOOKS!",
     cat: "books",
   },
@@ -64,19 +51,19 @@ export const categories = [
   // },
   {
     id: 3,
-    img: "https://res.cloudinary.com/midefulness/image/upload/v1663367095/middleware/rm330-pangrum-cdcover-01-ps_manqib.jpg",
+    img: "https://i.ebayimg.com/images/g/YUEAAOSwxM5jOecp/s-l500.jpg",
     title: "CDS/DVD",
     cat: "dvd",
   },
   {
     id: 4,
-    img: "https://res.cloudinary.com/midefulness/image/upload/v1663367149/middleware/essential-oil-lime-oil_buzsmn.jpg",
+    img: "https://i.ebayimg.com/images/g/ipYAAOSwPzJjFxst/s-l500.jpg",
     title: "ESSENTIAL OILS",
     cat: "essentialOils",
   },
   {
     id: 5,
-    img: "https://res.cloudinary.com/midefulness/image/upload/v1663368058/middleware/a02_jzrdzp.jpg",
+    img: "https://i.ebayimg.com/images/g/ceQAAOSwTZFiT81I/s-l500.jpg",
     title: "INCENSE STICKS",
     cat: "incenseSticks",
   },
